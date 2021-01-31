@@ -197,17 +197,9 @@ section {
 }
 
 .trainer-bio {
-  padding: 35;
+  padding: 35px;
   float: left;
   width: 65%;
-}
-
-.text-left {
-  text-align: left;
-}
-
-.text-right {
-  text-align: right;
 }
 
 .trainer-bio h3 {
@@ -224,4 +216,12 @@ section {
 .trainer-bio p {
   font-size: 17px;
   line-height: 1.3;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
 }
